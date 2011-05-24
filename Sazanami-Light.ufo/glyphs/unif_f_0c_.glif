@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF0C" format="1">
+  <advance width="1024"/>
+  <unicode hex="ff0c"/>
+  <outline>
+    <contour>
+      <point x="328" y="40" type="line" smooth="no"/>
+      <point x="230" y="-114" type="line" smooth="no"/>
+      <point x="198" y="-114" type="line" smooth="no"/>
+      <point x="240" y="14" type="line" smooth="no"/>
+      <point x="196" y="14" type="line" smooth="no"/>
+      <point x="196" y="136" type="line" smooth="no"/>
+      <point x="328" y="136" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

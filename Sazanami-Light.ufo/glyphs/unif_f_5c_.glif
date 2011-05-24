@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF5C" format="1">
+  <advance width="1024"/>
+  <unicode hex="ff5c"/>
+  <outline>
+    <contour>
+      <point x="475" y="875" type="line" smooth="no"/>
+      <point x="549" y="875" type="line" smooth="no"/>
+      <point x="549" y="-136" type="line" smooth="no"/>
+      <point x="475" y="-136" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF14.vert" format="1">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="628" y="-12" type="line" smooth="no"/>
+      <point x="530" y="-12" type="line" smooth="no"/>
+      <point x="530" y="164" type="line" smooth="no"/>
+      <point x="161" y="164" type="line" smooth="no"/>
+      <point x="161" y="210" type="line" smooth="no"/>
+      <point x="541" y="761" type="line" smooth="no"/>
+      <point x="628" y="761" type="line" smooth="no"/>
+      <point x="628" y="254" type="line" smooth="no"/>
+      <point x="744" y="254" type="line" smooth="no"/>
+      <point x="744" y="164" type="line" smooth="no"/>
+      <point x="628" y="164" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="530" y="581" type="line" smooth="no"/>
+      <point x="296" y="254" type="line" smooth="no"/>
+      <point x="530" y="254" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

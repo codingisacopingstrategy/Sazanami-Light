@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF3F.vert" format="1">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="103" y="876" type="line" smooth="no"/>
+      <point x="103" y="-144" type="line" smooth="no"/>
+      <point x="31" y="-144" type="line" smooth="no"/>
+      <point x="31" y="876" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

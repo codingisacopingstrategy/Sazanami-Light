@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF2D" format="1">
+  <advance width="1024"/>
+  <unicode hex="ff2d"/>
+  <outline>
+    <contour>
+      <point x="204" y="-12" type="line" smooth="no"/>
+      <point x="106" y="-12" type="line" smooth="no"/>
+      <point x="106" y="750" type="line" smooth="no"/>
+      <point x="229" y="750" type="line" smooth="no"/>
+      <point x="508" y="174" type="line" smooth="no"/>
+      <point x="518" y="174" type="line" smooth="no"/>
+      <point x="769" y="750" type="line" smooth="no"/>
+      <point x="892" y="750" type="line" smooth="no"/>
+      <point x="892" y="-12" type="line" smooth="no"/>
+      <point x="794" y="-12" type="line" smooth="no"/>
+      <point x="794" y="552" type="line" smooth="no"/>
+      <point x="788" y="552" type="line" smooth="no"/>
+      <point x="545" y="-9" type="line" smooth="no"/>
+      <point x="481" y="-9" type="line" smooth="no"/>
+      <point x="210" y="552" type="line" smooth="no"/>
+      <point x="204" y="552" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

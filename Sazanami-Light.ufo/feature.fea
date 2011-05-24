@@ -1,0 +1,176 @@
+
+# GSUB 
+
+
+lookup vertVerticalAlternatesobsinHira {
+  lookupflag RightToLeft;
+    sub \section by \section.vert ;
+    sub \dieresis by \dieresis.vert ;
+    sub \degree by \degree.vert ;
+    sub \plusminus by \plusminus.vert ;
+    sub \acute by \acute.vert ;
+    sub \paragraph by \paragraph.vert ;
+    sub \multiply by \multiply.vert ;
+    sub \divide by \divide.vert ;
+    sub \uniFF01 by \uniFF01.vert ;
+    sub \uniFF03 by \uniFF03.vert ;
+    sub \uniFF04 by \uniFF04.vert ;
+    sub \uniFF05 by \uniFF05.vert ;
+    sub \uniFF06 by \uniFF06.vert ;
+    sub \uniFF08 by \uniFF08.vert ;
+    sub \uniFF09 by \uniFF09.vert ;
+    sub \uniFF0A by \uniFF0A.vert ;
+    sub \uniFF0B by \uniFF0B.vert ;
+    sub \uniFF0C by \uniFF0C.vert ;
+    sub \uniFF0D by \uniFF0D.vert ;
+    sub \uniFF0E by \uniFF0E.vert ;
+    sub \uniFF0F by \uniFF0F.vert ;
+    sub \uniFF10 by \uniFF10.vert ;
+    sub \uniFF11 by \uniFF11.vert ;
+    sub \uniFF12 by \uniFF12.vert ;
+    sub \uniFF13 by \uniFF13.vert ;
+    sub \uniFF14 by \uniFF14.vert ;
+    sub \uniFF15 by \uniFF15.vert ;
+    sub \uniFF16 by \uniFF16.vert ;
+    sub \uniFF17 by \uniFF17.vert ;
+    sub \uniFF18 by \uniFF18.vert ;
+    sub \uniFF19 by \uniFF19.vert ;
+    sub \uniFF1A by \uniFF1A.vert ;
+    sub \uniFF1B by \uniFF1B.vert ;
+    sub \uniFF1C by \uniFF1C.vert ;
+    sub \uniFF1D by \uniFF1D.vert ;
+    sub \uniFF1E by \uniFF1E.vert ;
+    sub \uniFF1F by \uniFF1F.vert ;
+    sub \uniFF20 by \uniFF20.vert ;
+    sub \uniFF21 by \uniFF21.vert ;
+    sub \uniFF22 by \uniFF22.vert ;
+    sub \uniFF23 by \uniFF23.vert ;
+    sub \uniFF24 by \uniFF24.vert ;
+    sub \uniFF25 by \uniFF25.vert ;
+    sub \uniFF26 by \uniFF26.vert ;
+    sub \uniFF27 by \uniFF27.vert ;
+    sub \uniFF28 by \uniFF28.vert ;
+    sub \uniFF29 by \uniFF29.vert ;
+    sub \uniFF2A by \uniFF2A.vert ;
+    sub \uniFF2B by \uniFF2B.vert ;
+    sub \uniFF2C by \uniFF2C.vert ;
+    sub \uniFF2D by \uniFF2D.vert ;
+    sub \uniFF2E by \uniFF2E.vert ;
+    sub \uniFF2F by \uniFF2F.vert ;
+    sub \uniFF30 by \uniFF30.vert ;
+    sub \uniFF31 by \uniFF31.vert ;
+    sub \uniFF32 by \uniFF32.vert ;
+    sub \uniFF33 by \uniFF33.vert ;
+    sub \uniFF34 by \uniFF34.vert ;
+    sub \uniFF35 by \uniFF35.vert ;
+    sub \uniFF36 by \uniFF36.vert ;
+    sub \uniFF37 by \uniFF37.vert ;
+    sub \uniFF38 by \uniFF38.vert ;
+    sub \uniFF39 by \uniFF39.vert ;
+    sub \uniFF3A by \uniFF3A.vert ;
+    sub \uniFF3B by \uniFF3B.vert ;
+    sub \uniFF3C by \uniFF3C.vert ;
+    sub \uniFF3D by \uniFF3D.vert ;
+    sub \uniFF3E by \uniFF3E.vert ;
+    sub \uniFF3F by \uniFF3F.vert ;
+    sub \uniFF40 by \uniFF40.vert ;
+    sub \uniFF41 by \uniFF41.vert ;
+    sub \uniFF42 by \uniFF42.vert ;
+    sub \uniFF43 by \uniFF43.vert ;
+    sub \uniFF44 by \uniFF44.vert ;
+    sub \uniFF45 by \uniFF45.vert ;
+    sub \uniFF46 by \uniFF46.vert ;
+    sub \uniFF47 by \uniFF47.vert ;
+    sub \uniFF48 by \uniFF48.vert ;
+    sub \uniFF49 by \uniFF49.vert ;
+    sub \uniFF4A by \uniFF4A.vert ;
+    sub \uniFF4B by \uniFF4B.vert ;
+    sub \uniFF4C by \uniFF4C.vert ;
+    sub \uniFF4D by \uniFF4D.vert ;
+    sub \uniFF4E by \uniFF4E.vert ;
+    sub \uniFF4F by \uniFF4F.vert ;
+    sub \uniFF50 by \uniFF50.vert ;
+    sub \uniFF51 by \uniFF51.vert ;
+    sub \uniFF52 by \uniFF52.vert ;
+    sub \uniFF53 by \uniFF53.vert ;
+    sub \uniFF54 by \uniFF54.vert ;
+    sub \uniFF55 by \uniFF55.vert ;
+    sub \uniFF56 by \uniFF56.vert ;
+    sub \uniFF57 by \uniFF57.vert ;
+    sub \uniFF58 by \uniFF58.vert ;
+    sub \uniFF59 by \uniFF59.vert ;
+    sub \uniFF5A by \uniFF5A.vert ;
+    sub \uniFF5B by \uniFF5B.vert ;
+    sub \uniFF5C by \uniFF5C.vert ;
+    sub \uniFF5D by \uniFF5D.vert ;
+    sub \uniFF5E by \uniFF5E.vert ;
+} vertVerticalAlternatesobsinHira;
+
+feature vert {
+
+  script kana;
+     language dflt ;
+      lookup vertVerticalAlternatesobsinHira;
+     language JAN  exclude_dflt;
+      lookup vertVerticalAlternatesobsinHira;
+} vert;
+
+@GDEF_Simple = [];
+@GDEF_Ligature = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
+	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \period 
+	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
+	\less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T 
+	\U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
+	\grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar 
+	\braceright \asciitilde \uni00A0 \exclamdown \cent \sterling \currency \yen 
+	\brokenbar \section \dieresis \copyright \ordfeminine \guillemotleft 
+	\logicalnot \uni00AD \registered \macron \degree \plusminus \uni00B2 \uni00B3 
+	\acute \uni00B5 \paragraph \periodcentered \cedilla \uni00B9 \ordmasculine 
+	\guillemotright \onequarter \onehalf \threequarters \questiondown \Agrave 
+	\Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute 
+	\Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde 
+	\Ograve \Oacute \Ocircumflex \Otilde \Odieresis \multiply \Oslash \Ugrave 
+	\Uacute \Ucircumflex \Udieresis \Yacute \Thorn \germandbls \agrave \aacute 
+	\acircumflex \atilde \adieresis \aring \ae \ccedilla \egrave \eacute 
+	\ecircumflex \edieresis \igrave \iacute \icircumflex \idieresis \eth \ntilde 
+	\ograve \oacute \ocircumflex \otilde \odieresis \divide \oslash \ugrave \uacute 
+	\ucircumflex \udieresis \yacute \thorn \ydieresis \dotlessi \Lslash \lslash \eng 
+	\OE \oe \florin \uni0251 \uni025A \uni0292 \circumflex \caron \uni02CA \uni02CB 
+	\breve \ring \tilde \uniFF01 \uniFF02 \uniFF03 \uniFF04 \uniFF05 \uniFF06 
+	\uniFF07 \uniFF08 \uniFF09 \uniFF0A \uniFF0B \uniFF0C \uniFF0D \uniFF0E \uniFF0F 
+	\uniFF10 \uniFF11 \uniFF12 \uniFF13 \uniFF14 \uniFF15 \uniFF16 \uniFF17 \uniFF18 
+	\uniFF19 \uniFF1A \uniFF1B \uniFF1C \uniFF1D \uniFF1E \uniFF1F \uniFF20 \uniFF21 
+	\uniFF22 \uniFF23 \uniFF24 \uniFF25 \uniFF26 \uniFF27 \uniFF28 \uniFF29 \uniFF2A 
+	\uniFF2B \uniFF2C \uniFF2D \uniFF2E \uniFF2F \uniFF30 \uniFF31 \uniFF32 \uniFF33 
+	\uniFF34 \uniFF35 \uniFF36 \uniFF37 \uniFF38 \uniFF39 \uniFF3A \uniFF3B \uniFF3C 
+	\uniFF3D \uniFF3E \uniFF3F \uniFF40 \uniFF41 \uniFF42 \uniFF43 \uniFF44 \uniFF45 
+	\uniFF46 \uniFF47 \uniFF48 \uniFF49 \uniFF4A \uniFF4B \uniFF4C \uniFF4D \uniFF4E 
+	\uniFF4F \uniFF50 \uniFF51 \uniFF52 \uniFF53 \uniFF54 \uniFF55 \uniFF56 \uniFF57 
+	\uniFF58 \uniFF59 \uniFF5A \uniFF5B \uniFF5C \uniFF5D \uniFF5E \multiply.vert 
+	\divide.vert \uniFF01.vert \uniFF03.vert \uniFF04.vert \uniFF05.vert 
+	\uniFF06.vert \uniFF08.vert \uniFF09.vert \uniFF0A.vert \uniFF0B.vert 
+	\uniFF0C.vert \uniFF0D.vert \uniFF0E.vert \uniFF0F.vert \uniFF10.vert 
+	\uniFF11.vert \uniFF12.vert \uniFF13.vert \uniFF14.vert \uniFF15.vert 
+	\uniFF16.vert \uniFF17.vert \uniFF18.vert \uniFF19.vert \uniFF1A.vert 
+	\uniFF1B.vert \uniFF1C.vert \uniFF1D.vert \uniFF1E.vert \uniFF1F.vert 
+	\uniFF20.vert \uniFF21.vert \uniFF22.vert \uniFF23.vert \uniFF24.vert 
+	\uniFF25.vert \uniFF26.vert \uniFF27.vert \uniFF28.vert \uniFF29.vert 
+	\uniFF2A.vert \uniFF2B.vert \uniFF2C.vert \uniFF2D.vert \uniFF2E.vert 
+	\uniFF2F.vert \uniFF30.vert \uniFF31.vert \uniFF32.vert \uniFF33.vert 
+	\uniFF34.vert \uniFF35.vert \uniFF36.vert \uniFF37.vert \uniFF38.vert 
+	\uniFF39.vert \uniFF3A.vert \uniFF3B.vert \uniFF3C.vert \uniFF3D.vert 
+	\uniFF3E.vert \uniFF3F.vert \uniFF40.vert \uniFF41.vert \uniFF42.vert 
+	\uniFF43.vert \uniFF44.vert \uniFF45.vert \uniFF46.vert \uniFF47.vert 
+	\uniFF48.vert \uniFF49.vert \uniFF4A.vert \uniFF4B.vert \uniFF4C.vert 
+	\uniFF4D.vert \uniFF4E.vert \uniFF4F.vert \uniFF50.vert \uniFF51.vert 
+	\uniFF52.vert \uniFF53.vert \uniFF54.vert \uniFF55.vert \uniFF56.vert 
+	\uniFF57.vert \uniFF58.vert \uniFF59.vert \uniFF5A.vert \uniFF5B.vert 
+	\uniFF5C.vert \uniFF5D.vert \uniFF5E.vert ];
+@GDEF_Mark = [];
+@GDEF_Component = [];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+
+} GDEF;
+

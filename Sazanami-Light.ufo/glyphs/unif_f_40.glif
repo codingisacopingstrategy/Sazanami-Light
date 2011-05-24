@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF40" format="1">
+  <advance width="1024"/>
+  <unicode hex="ff40"/>
+  <outline>
+    <contour>
+      <point x="350" y="816" type="line" smooth="no"/>
+      <point x="486" y="816" type="line" smooth="no"/>
+      <point x="604" y="640" type="line" smooth="no"/>
+      <point x="524" y="640" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

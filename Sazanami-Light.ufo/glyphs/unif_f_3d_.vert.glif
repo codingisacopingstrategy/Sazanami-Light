@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF3D.vert" format="1">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="992" y="461" type="line" smooth="no"/>
+      <point x="37" y="461" type="line" smooth="no"/>
+      <point x="37" y="818" type="line" smooth="no"/>
+      <point x="117" y="818" type="line" smooth="no"/>
+      <point x="117" y="558" type="line" smooth="no"/>
+      <point x="911" y="558" type="line" smooth="no"/>
+      <point x="911" y="818" type="line" smooth="no"/>
+      <point x="992" y="818" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>
